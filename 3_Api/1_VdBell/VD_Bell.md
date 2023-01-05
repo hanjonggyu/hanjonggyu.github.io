@@ -4,5 +4,5 @@ title: VD Bell
 nav_order: 1
 parent: API
 has_children: true
-permalink: /api/pudubell
+permalink: /api/vdbell
 ---
