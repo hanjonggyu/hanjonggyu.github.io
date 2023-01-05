@@ -1,3 +1,11 @@
+---
+layout: default
+nav_order: 3
+description: ""
+parent: Android Style Guide
+permalink: /android-style-guide/doc/resource
+---
+
 # Resource
 
 ## Layout
