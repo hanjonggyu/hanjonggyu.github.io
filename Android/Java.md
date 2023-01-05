@@ -1,3 +1,11 @@
+---
+layout: default
+nav_order: 1
+description: ""
+parent: Android Style Guide
+permalink: /android-style-guide/doc/java
+---
+
 # Java
 
 아래 정의되어 있는 가이드외에는 [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)를 따른다.
