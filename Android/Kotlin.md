@@ -1,3 +1,12 @@
+---
+layout: default
+nav_order: 2
+description: ""
+parent: Android Style Guide
+permalink: /android-style-guide/doc/kotlin
+---
+
+
 # Kotlin
 ## Concepts
 ### 비교
