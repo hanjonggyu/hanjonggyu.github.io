@@ -3,7 +3,7 @@ layout: default
 nav_order: 1
 description: ""
 parent: VD Bell
-permalink: /vdbell/api/doc
+permalink: /api/vdbell/doc
 ---
 
 
