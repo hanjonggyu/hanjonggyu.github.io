@@ -3,6 +3,7 @@ layout: default
 nav_order: 1
 description: ""
 parent: VD Bell
+grand_parent: API
 permalink: /api/vdbell/doc
 ---
 
