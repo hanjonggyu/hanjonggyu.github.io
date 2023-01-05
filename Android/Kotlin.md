@@ -20,6 +20,7 @@ permalink: /android-style-guide/doc/kotlin
 
 ### Labmda
 - invoke() 함수는 nullable이 아닐 때에는 생략해서 사용한다.
+
 ```kotiln
 val foo: () -> Unit
 val bar: (() -> Unit)?
