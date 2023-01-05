@@ -1,3 +1,11 @@
+---
+layout: default
+nav_order: 4
+description: ""
+parent: Android Style Guide
+permalink: /android-style-guide/doc/architecture
+---
+
 # Gradle
 ## Dependencies
 - 라이브러리를 추가할때 꼭 외부 라이브러리의 라이센스 고지를 추가한다.
