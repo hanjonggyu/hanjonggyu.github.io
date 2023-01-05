@@ -1,3 +1,11 @@
+---
+layout: default
+nav_order: 6
+description: ""
+parent: Android Style Guide
+permalink: /android-style-guide/doc/migration
+---
+
 # Migration
 유지보수를 진행하며 마이그레이션이 필요한 상황에 대한 컨벤션을 정의
 
