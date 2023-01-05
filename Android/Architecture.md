@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 1
+nav_order: 5
 description: ""
 parent: Android Style Guide
 permalink: /android-style-guide/doc/architecture
