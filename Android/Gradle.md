@@ -3,7 +3,7 @@ layout: default
 nav_order: 4
 description: ""
 parent: Android Style Guide
-permalink: /android-style-guide/doc/architecture
+permalink: /android-style-guide/doc/gradle
 ---
 
 # Gradle
