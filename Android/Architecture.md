@@ -3,7 +3,7 @@ layout: default
 nav_order: 1
 description: ""
 parent: Android Style Guide
-permalink: /vdbell/api/doc
+permalink: /android-style-guide/doc/architecture
 ---
 
 
