@@ -1,3 +1,12 @@
+---
+layout: default
+nav_order: 1
+description: ""
+parent: Android Style Guide
+permalink: /vdbell/api/doc
+---
+
+
 # Architecture
 - 코드의 Architecture는 MVVM + Clean Architecture를 사용한다.
 - Clean Architecture의 기본적인 구조는 아래에 기반하고 프로젝트에 맞게 효율적인 구조로 만든다.
